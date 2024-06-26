@@ -1,0 +1,104 @@
+{
+  "videos": [
+    {
+      "caption": "illuminati",
+      "image": "https://i.ytimg.com/vi/yH7eDWTH5iM/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "husn ",
+      "image": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "id": 2
+    },
+    {
+      "caption": "ishq wala love",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/4c/db/404cdb1d-974b-4ba7-a3a8-c8c55f730061/196871860109.jpg/1200x1200bf-60.jpg",
+      "url": "https://www.youtube.com/embed/VmH8tELQ3aE",
+      "id": 3
+    },
+    {
+      "caption": "sajni re",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEHf0U7hUJ-oDdS2gOSfHLs3rbCSbxa5VPw&s",
+      "url": "https://www.youtube.com/embed/XJAMVPQWvGY",
+      "id": 4
+    },
+    {
+      "caption": "Still with you",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-d1a6ceab2ae7c273e104cbe21bc92cd9-pjlq",
+      "url": "https://www.youtube.com/embed/BksBNbTIoPE",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Malayalam Songs",
+      "allVideo": [
+        {
+          "caption": "illuminati",
+          "image": "https://i.ytimg.com/vi/yH7eDWTH5iM/hqdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "CategoryName": "Hindi Songs",
+      "allVideo": [
+        {
+          "caption": "ishq wala love",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/4c/db/404cdb1d-974b-4ba7-a3a8-c8c55f730061/196871860109.jpg/1200x1200bf-60.jpg",
+          "url": "https://www.youtube.com/embed/VmH8tELQ3aE",
+          "id": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "CategoryName": "English Songs",
+      "allVideo": [
+        {
+          "caption": "Still with you",
+          "image": "https://qph.cf2.quoracdn.net/main-qimg-d1a6ceab2ae7c273e104cbe21bc92cd9-pjlq",
+          "url": "https://www.youtube.com/embed/BksBNbTIoPE",
+          "id": 5
+        }
+      ],
+      "id": 8
+    },
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "sajni re",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEHf0U7hUJ-oDdS2gOSfHLs3rbCSbxa5VPw&s",
+          "url": "https://www.youtube.com/embed/XJAMVPQWvGY",
+          "id": 4
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "history": [
+    {
+      "caption": "ishq wala love",
+      "url": "https://www.youtube.com/embed/VmH8tELQ3aE",
+      "timeStamp": "24/06/2024, 23:07:15",
+      "id": 1
+    },
+    {
+      "caption": "sajni re",
+      "url": "https://www.youtube.com/embed/XJAMVPQWvGY",
+      "timeStamp": "25/06/2024, 21:35:24",
+      "id": 2
+    },
+    {
+      "caption": "ishq wala love",
+      "url": "https://www.youtube.com/embed/VmH8tELQ3aE",
+      "timeStamp": "26/06/2024, 10:24:53",
+      "id": 3
+    }
+  ]
+}
